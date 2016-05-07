@@ -1,0 +1,21 @@
+{
+  "name": "webpack4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-webpack-sourcemaps": "^0.3.0",
+    "source-map-support": "^0.4.0",
+    "through2": "^2.0.1",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^1.13.0",
+    "webpack-stream": "^3.2.0"
+  }
+}
